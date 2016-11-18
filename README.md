@@ -97,7 +97,7 @@ python3 sync.py -d -fn "your_file_name" -cd "the folder name" -p /Your/System/Pa
 **OR**
 
 ```
-python3 sync.py -d -Id "The Id of your file" -p -p /Your/System/Path
+python3 sync.py -d -Id "The Id of your file" -p /Your/System/Path
 ```
 
 #### To find a file Search:
