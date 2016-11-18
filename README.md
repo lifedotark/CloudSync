@@ -91,13 +91,13 @@ python3 sync.py -d -fn "your_file_name"
 If you have multiple files with the same name:
 
 ```
-python3 sync.py -d -fn "your_file_name" -cd "the folder name" -p /Your/System/Path
+python3 sync.py -d -fn "your_file_name" -cd "the folder name" -si /Your/System/Path
 ```
 
 **OR**
 
 ```
-python3 sync.py -d -Id "The Id of your file" -p /Your/System/Path
+python3 sync.py -d -Id "The Id of your file" -si /Your/System/Path
 ```
 
 #### To find a file Search:
