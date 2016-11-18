@@ -1,0 +1,6 @@
+{
+    "client_secret_file":"/home/ubuntu/.credentials/client_secrets.json",
+    "credential_file":"/home/ubuntu/.credentials/credentials.json",
+    "scopes":"https://www.googleapis.com/auth/drive",
+    "app_name":"YourAppName"
+}
